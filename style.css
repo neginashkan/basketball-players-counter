@@ -1,0 +1,28 @@
+body{
+    height: 100vh;
+    width: "100%";
+    background-image: url("basketball_ball.jpg");
+    background-size: cover;
+    text-align: center;
+    font-family: 'Graduate', cursive;
+    color: rgb(255, 136, 0);
+    text-shadow: 5px 3px 9px #000000;
+}
+
+.button-style{
+    font-family: inherit;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 25px;
+    background-color:#ecc67c ;
+}
+button:hover{
+    background-color: rgb(255, 136, 0);
+}
+#entered-number{
+    margin: 60px 0;
+}
+footer{
+    font-size: 20px;
+    font-weight: bolder;
+}
